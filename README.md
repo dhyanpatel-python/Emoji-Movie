@@ -10,7 +10,6 @@ Welcome to the "Guess the Movie from Emoji" game website! This interactive platf
 - [Features](#features)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
